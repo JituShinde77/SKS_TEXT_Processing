@@ -16,5 +16,5 @@ c. Apply the function on the input data<br>
 a. Define function that extracts nouns from the text. Textblob helps in extracting proper noun and phrases.<br>
 b. Apply the function and check the performance on input data<br>
 
-** Conclusion:
+__Conclusion:__
 This funcitons perform well on the given data.
